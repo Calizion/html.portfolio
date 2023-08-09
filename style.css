@@ -1,0 +1,64 @@
+article p {
+  font-size: 16px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-style: italic;
+  font-weight: 500;
+  text-decoration: underline;
+  text-transform: uppercase;
+
+  background-color: blue;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 16px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-style: italic;
+  font-weight: 500;
+}
+
+h1,
+p {
+  font-size: 16px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-style: italic;
+  font-weight: 500;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+To
+  Target
+  a
+  particular
+  paragraph
+  among
+  many
+  paragraphs
+  we
+  the
+  parent
+  of
+  the
+  paragraph
+  and
+  then
+  the
+  paragraph
+  which
+  is
+  like
+  the
+  child.
+  example
+  article
+  p {
+  font-size: 16px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-style: italic;
+  font-weight: 500;
+  text-decoration: underline;
+  text-transform: uppercase;
+}

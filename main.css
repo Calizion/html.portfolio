@@ -1,0 +1,16 @@
+.googgle map {
+  padding: 50%;
+  position: relative;
+}
+
+.googgle-map {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  position: absolute;
+}
+
+body {
+  background-color: seagreen;
+}
